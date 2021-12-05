@@ -1,0 +1,39 @@
+
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+
+}
+
+.links {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+}
+
+.title {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF9;
+}
+
+.desc, .links {
+    font-size: 18px;
+    color: #e5e7eb
+}
+
+header {
+    background-color: #1F2937;
+}
+
+.button {
+    color: #3882F6;
+}
+
+.quote {
+    background-color: #E5E7EB;
+    color: #1F2937;
+    font-style: italic;
+    font-size: 36px;
+}
