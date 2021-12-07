@@ -1,4 +1,6 @@
-
+body {
+    margin: 0;
+}
 
 .logo {
     font-size: 24px;
@@ -53,7 +55,8 @@ header {
     font-size: 36px;
     display: flex;
     justify-content: center;
-    margin: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 
 }
 
@@ -96,6 +99,7 @@ footer {
     justify-content: center;
     align-items: center;
     padding: 24px;
+    margin-top: 30px;
 }
 
 .footer {
@@ -105,8 +109,9 @@ footer {
     align-items: center;
     background-color: #3882F6;
     color:#e5e7eb;
-    column-gap: 15%;
-    border-radius: 25px;
+    column-gap: 10%;
+    border-radius: 35px;
+    max-width: auto;
 }
 
 .text {
